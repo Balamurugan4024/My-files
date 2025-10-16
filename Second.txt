@@ -1,6 +1,0 @@
-My second file
-<<<<<<< HEAD
-Thankyou so much
-=======
-
->>>>>>> 77d7f9b1886ef6581a5edab76708abb317c3868b
